@@ -1,4 +1,3 @@
-Kristian	
-Germany	
+Pedro	
+Portugal
 Meta Front-End course
-
